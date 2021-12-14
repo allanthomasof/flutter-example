@@ -1,8 +1,15 @@
-# myapp
+# Flutter Example
 
-A new Flutter project.
+Running the project:
+```
+  flutter run
+```
 
-## Getting Started
+### Before Starting
+
+Install a [Flutter extension](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) to VsCode:
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
